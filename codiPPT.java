@@ -127,6 +127,7 @@ public class codiPPT {
 
 public static void seleccionaridioma() {
         //Mostram un missatge per que l'usuari pugui saber que tecletjar.
+        System.out.println("Benvingut!");
         System.out.println("Pedra Paper Tissora");
         System.out.println("Tria un idioma/Select language/Elige un idioma:\n1.Català.\n2.Castellano.\n3.English.");
         System.out.println("Opció/Opción/Option: ");
